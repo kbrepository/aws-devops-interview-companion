@@ -1,6 +1,6 @@
 # AWS DevOps Interview Companion
 
-Build • Learn • Interview • Revise
+## Build • Learn • Interview • Revise
 
 ## Objective
 
