@@ -1,0 +1,12 @@
+.venv
+venv
+__pycache__
+*.pyc
+.git
+.gitignore
+README.md
+.env
+.DS_Store
+.terraform
+*.tfstate
+*.tfstate.backup
